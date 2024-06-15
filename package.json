@@ -30,7 +30,7 @@
     "test": "vitest --run"
   },
   "dependencies": {
-    "@zodactive-form/core": "0.1.3"
+    "@zodactive-form/core": "0.1.4"
   },
   "peerDepdendencies": {
     "solid-js": "*",
