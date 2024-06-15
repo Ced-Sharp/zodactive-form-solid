@@ -4,6 +4,17 @@
   "version": "0.0.2",
   "author": "CedSharp <cedascsharp@gmail.com>",
   "type": "module",
+  "files": ["dist"],
+  "main": "dist/zodactive-form-solid.umd.js",
+  "module": "dist/zodactive-form-solid.js",
+  "types": "types/zodactive-form-solid.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/zodactive-form-solid.js",
+      "require": "./dist/zodactive-form-solid.umd.js",
+      "types": "./types/zodactive-form-solid.d.ts"
+    }
+  },
   "repository": {
     "type": "git",
     "git": "https://github.com/Ced-Sharp/zodactive-form-solid"
