@@ -4,7 +4,7 @@ export default {
   input: "./types/index.d.ts",
   output: [
     {
-      file: "./dist/zodactive-form-vue.d.ts",
+      file: "./dist/zodactive-form-solid.d.ts",
       format: "es",
     },
   ],
