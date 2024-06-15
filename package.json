@@ -1,7 +1,7 @@
 {
   "name": "@zodactive-form/solid",
   "description": "The SolidJS adapter for @zodactive-form/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "CedSharp <cedascsharp@gmail.com>",
   "type": "module",
   "files": [
