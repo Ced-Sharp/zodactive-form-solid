@@ -1,10 +1,12 @@
 {
   "name": "@zodactive-form/solid",
   "description": "The SolidJS adapter for @zodactive-form/core",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "CedSharp <cedascsharp@gmail.com>",
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "dist/zodactive-form-solid.umd.js",
   "module": "dist/zodactive-form-solid.js",
   "types": "types/zodactive-form-solid.d.ts",
