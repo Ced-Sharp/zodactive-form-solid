@@ -4,3 +4,4 @@ types/
 .idea/
 .vscode/
 bun.lockb
+pnpm-lock.yaml
